@@ -2,7 +2,7 @@
  Tiny MCE plugin that adds a button to insert Soft Hyphen (&shy;) charaters.
  
 ## Demo
-https://codepen.io/andreasnylin/pen/poppbx
+https://codepen.io/andreasnylin/pen/poppbxJ
 
 ## Installation
 Download the .js files and place them in your plugins directory or use the external_plugins option to link to the script file.
